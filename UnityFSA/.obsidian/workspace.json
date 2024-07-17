@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "b59fec831c72c24d",
+    "type": "split",
+    "children": [
+      {
+        "id": "99bcda7084d6d805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c093b86a06f2fb90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainCard/其他.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f63197150a01b663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41e7ca774f999c27",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c1d00a7095d47f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "00300d230c580408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deac93770fcaf242",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62a0e208edbf71c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#idea",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce326a03f6195874",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e368f8c9f511c5da",
+    "type": "split",
+    "children": [
+      {
+        "id": "da86be4ab6b05262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e27a66023d7f3cf6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MainCard/其他.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebb1e75d4e0e64f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MainCard/其他.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb20bc43a317f4ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61c9af91e479d9b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MainCard/其他.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "deac93770fcaf242",
+  "lastOpenFiles": [
+    "MainCard/MOC_Unity引擎相关.md",
+    "MainCard/其他.md",
+    "MainCard/MOC_C Sharp.md",
+    "MainCard/MOC_框架  GameFramework.md",
+    "Templates/TemplateSample.md",
+    "Zettelkasten/未命名 1.md",
+    "Zettelkasten/NoteSample.md",
+    "欢迎.md",
+    "Zettelkasten/未命名 2.md",
+    "Reference notes/ReferencesSample.md",
+    "Hello world.md",
+    "123.md",
+    "MainCard",
+    "Templates",
+    "Reference notes",
+    "Files"
+  ]
+}

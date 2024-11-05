@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainCard/Using的特殊用法.md",
+                "file": "MainCard/MVC 和 MVP.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "84b7265016d7c16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainCard/游戏常见功能/基于Scrollrect的滑动列表翻页功能.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17e4e3d9085c0310",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainCard/Using的特殊用法.md",
+                "file": "MainCard/游戏常见功能/基于Scrollrect的滑动列表翻页功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainCard/Using的特殊用法.md",
+                "file": "MainCard/游戏常见功能/基于Scrollrect的滑动列表翻页功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainCard/Using的特殊用法.md"
+                "file": "MainCard/游戏常见功能/基于Scrollrect的滑动列表翻页功能.md"
               }
             }
           }
@@ -146,46 +167,47 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "deac93770fcaf242",
+  "active": "84b7265016d7c16f",
   "lastOpenFiles": [
-    "MainCard/Config/IObjectTableConfig.cs",
-    "MainCard/Config/IObjectTableConfig.cs.meta",
-    "MainCard/Config/ILocalizationName.cs.meta",
-    "MainCard/Config/ILocalizationName.cs",
-    "MainCard/Config/IGameTableConfig.cs.meta",
-    "MainCard/Config/IGameTableConfig.cs",
-    "MainCard/Config/IConfig.cs",
-    "MainCard/Config/IConfig.cs.meta",
-    "MainCard/Config/ConfigManager.cs.meta",
-    "MainCard/Config/ConfigManager.cs",
-    "MainCard/Config/AssetLoader.cs.meta",
-    "MainCard/插件及第三方库/AddressableAssets.md",
-    "MainCard/Using的特殊用法.md",
-    "资源加载和卸载.md",
-    "MainCard/Content filter.md",
-    "plugin.md",
+    "MainCard/游戏常见功能/基于Scrollrect的滑动列表翻页功能.md",
+    "MainCard/游戏常见功能/对导入的Sprite格式图片做一些统一的格式处理.md",
+    "Pasted image 20240903185111.png",
+    "Pasted image 20240903185430.png",
+    "MainCard/游戏常见功能/SpritePostprocessor.cs",
+    "MainCard/MVC 和 MVP.md",
+    "MainCard/layout Group.md",
+    "MainCard/Event 消息广播.md",
+    "MainCard/List Linq.md",
     "MainCard/Unity特性/RuntimeInitializeOnLoadMethod.md",
-    "MainCard/插件及第三方库/LitMotion.md",
-    "MainCard/插件及第三方库/Unitask.md",
-    "2024-08-29.md",
-    "未命名 1.canvas",
+    "MainCard/插件及第三方库/监听List 数据变化的事件.md",
+    "MainCard/游戏常见功能/PageScrollView.cs",
+    "MainCard/Using的特殊用法.md",
+    "MainCard/未命名.md",
+    "MainCard/位运算在枚举中的应用.md",
+    "MainCard/游戏初始化.md",
+    "MainCard/Camera.md",
+    "MainCard/Qframework.md",
+    "MainCard/游戏常见功能",
+    "MainCard/各种unity造轮子/简易ui框架/UI/TaskUI/UguiTutorialLayer.cs.meta",
+    "MainCard/各种unity造轮子/简易ui框架/UI/TaskUI/UguiTutorialLayer.cs",
+    "MainCard/各种unity造轮子/简易ui框架/UI/TaskUI/TutorialArrows.cs",
+    "MainCard/各种unity造轮子/简易ui框架/UI/TaskUI/UguiTutorialAnchor.cs.meta",
+    "MainCard/各种unity造轮子/简易ui框架/UI/TaskUI/UguiTutorialAnchor.cs",
+    "MainCard/各种unity造轮子/简易ui框架/UI/TaskUI/UguiTutorial.cs.meta",
+    "MainCard/各种unity造轮子/简易ui框架/UI/TaskUI/UguiTutorial.cs",
+    "Reference notes/MOC_C Sharp.md",
+    "[componet.md",
+    "componet.md",
+    "MainCard/插件及第三方库/OdinInspector.md",
+    "MainCard/插件及第三方库/MemoryPack.md",
+    "MainCard/插件及第三方库/Luban to config.md",
+    "plugin.md",
     "MainCard/各种unity造轮子/未命名.md",
     "MainCard/小游戏模块拆解/22222222.md",
     "MainCard/小游戏模块拆解/Lucky Defence.md",
-    "UnrealEngine.md",
-    "MainCard/Event 消息广播.md",
-    "MainCard/layout Group.md",
-    "MainCard/MVC 和 MVP.md",
-    "MainCard/Time 相关函数.md",
-    "MainCard/插件及第三方库/HybridCLR.md",
-    "MainCard/游戏实例学习/小丑牌 卡牌表现复刻.md",
-    "componet.md",
-    "[componet.md",
+    "MainCard/插件及第三方库/AddressableAssets.md",
+    "未命名 1.canvas",
     "附件/HSV色彩简析.png",
-    "未命名.canvas",
-    "Reference notes/MOC_Unity引擎相关.md",
-    "Reference notes/ReferencesSample.md",
-    "Reference notes/MOC_C Sharp.md",
-    "MainCard/插件及第三方库/Joystick Pack.md"
+    "未命名.canvas"
   ]
 }
